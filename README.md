@@ -1,2 +1,2 @@
 # Portifolio_C
-Nesse repositório você irá encontrar soluções propostas em sala de aula, na qual saídas e tiveram que ser manipuladas conforme exigia o problema. Tais soluções envolvem condicionais, loops, vetores, matrizes e mais...
+Nesse repositório você irá encontrar soluções propostas em sala de aula, na qual saídas e tiveram que ser manipuladas conforme exigia o problema. Tais soluções envolvem condicionais, loops, vetores e matrizes.
